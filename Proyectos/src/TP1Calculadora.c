@@ -1,7 +1,6 @@
 /*
  ============================================================================
- Name        : TP1Calculadora.c
- Author      : 
+ Name        : TP1C : 
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
